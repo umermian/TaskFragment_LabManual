@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TaskFragment_LabManual</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="update_b">Update B</string>
+    <string name="updatea">Update A</string>
+</resources>
